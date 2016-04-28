@@ -28,10 +28,9 @@ See each file for further documentation.
 
 ##Acknowledgements
 
-This research has been supported by the ERC Starting Grant 305123 MORE (Advanced Mathematical Tools for Complex Network Engineering). Parts of the results were previously presented at the 8th IEEE Sensor Array and Multichannel Signal Processing Workshop, 2014. E. Björnson is funded by the International Postdoc Grant 2012-228 from the Swedish Research Council.
+This research has been supported by the ERC Starting Grant 305123 MORE (Advanced Mathematical Tools for Complex Network Engineering). E. Björnson was funded by the International Postdoc Grant 2012-228 from the Swedish Research Council.
 
 
 ##License and Referencing
 
 This code package is licensed under the GPLv2 license. If you in any way use this code for research that results in publications, please cite our original article listed above.
-
